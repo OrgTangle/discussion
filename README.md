@@ -2,6 +2,8 @@
 
 This is a group for org-mode enthusiasts :)
 
+## The Usage of this Repository
+
 Please open an issue to start a new discussion.  Or stop watching this
 repository to unsubscribe.
 
