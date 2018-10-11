@@ -14,7 +14,7 @@ https://github.com/orgs/OrgTangle/people
 
 ## Wiki
 
-This repository also have a [wiki](https://github.com/OrgTangle/discussion/wiki).
+This repository also has a [wiki](https://github.com/OrgTangle/discussion/wiki).
 Help us improve pages there!
 
 A page can have links to related issues.
