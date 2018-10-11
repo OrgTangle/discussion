@@ -16,10 +16,8 @@ https://github.com/orgs/OrgTangle/people
 
 This repository also has a [wiki](https://github.com/OrgTangle/discussion/wiki).
 Everyone is welcome to help us improve pages there!
-
-A page can have links to related issues.
-
-We recommend you use `.org` format for wiki pages.
+- A page can have links to related issues.
+- We recommend you use `.org` format for wiki pages.
 
 ## CODE OF CONDUCT
 
